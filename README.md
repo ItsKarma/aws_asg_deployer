@@ -1,6 +1,6 @@
 aws_asg_deployer
 =============
-Python application to create a versioned ELB, Launch Configuration, and Auto-Scaling Group for a blue/green deployment with AWS using the Boto library
+Python application to create a versioned ELB, Launch Configuration, and Auto-Scaling Group for a blue/green deployment with AWS using the Boto library.
 If specified, two Auto-Scaling-Groups will be created, 1 spot, and 1 on-demand.
 
 Setup:
